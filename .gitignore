@@ -52,3 +52,12 @@ prompt
 server.log
 # Skills directory
 /skills/
+# Capacitor / 构建产物
+www/
+out/
+.next/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.keystore

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">步步为营</string>
+    <string name="title_activity_main">步步为营</string>
+    <string name="package_name">com.aquaris.quoridor</string>
+    <string name="custom_url_scheme">com.aquaris.quoridor</string>
+</resources>
